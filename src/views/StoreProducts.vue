@@ -5,7 +5,7 @@
 			<div class="row">
 				<div class="col-4" v-for="item,index in productsList" :key="index">
 					<div class="card">
-						<img :src="generateUrl(item.image)" class="card-img-top " alt="">
+						<img :src="generateUrl(item.image)" class="card-img-top " :alt="item.name">
 						<div class="card-body">
 							<h2 class="h4">{{ item.name }}</h2>
 							<p class="text-dark">{{ item.description }}</p>
