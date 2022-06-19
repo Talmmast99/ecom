@@ -1,0 +1,20 @@
+[
+	{
+		"name":"Product 1",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy text ever since the 1500s,",
+		"price":120,
+		"image":"t-shirt-primeblue-aeroready-3-stripes-slim"
+	},
+	{
+		"name":"Product 2",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+		"price":90,
+		"image":"flift-pr-tee-pb"
+	},
+	{
+		"name":"Product 3",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy text ever since the 1500s,",
+		"price":35,
+		"image":"t-shirt-adidas-sprt-3-stripes-split"
+	}
+]
